@@ -12,11 +12,11 @@
 
 ​	下载安装Blender后直接打开`.blend`文件即可查看。
 
-<img src="images/Blender建模图预览.png" style="zoom: 33%;" />
+<img src="images/Blender建模图预览.png" width="33%" />
 
 ​	另外笔者预设了一段动画，直接点击下方轨道可以从0s开始播放
 
-<img src="images\Blender动画播放按钮.png" alt="Blender动画播放按钮" style="zoom: 33%;" />
+<img src="images\Blender动画播放按钮.png" alt="Blender动画播放按钮" width="33%" />
 
 ## 二、Unity项目
 
